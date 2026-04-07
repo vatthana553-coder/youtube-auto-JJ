@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "The terrifying science behind Artificial Intelligence",
+    "niche": "science",
+    "topic_keyword": "artificial intelligence",
+    "hook_potential": 9,
+    "virality_score": 9.495541013179382,
+    "generated_at": "2026-04-07T05:02:43.976135",
+    "method": "template"
+  },
+  {
+    "id": 2,
+    "title": "The mind-blowing truth about Consciousness",
+    "niche": "science",
+    "topic_keyword": "consciousness",
+    "hook_potential": 10,
+    "virality_score": 7.305679008896268,
+    "generated_at": "2026-04-07T05:02:43.976165",
+    "method": "template"
+  },
+  {
+    "id": 3,
+    "title": "What happens when Climate Change goes wrong",
+    "niche": "science",
+    "topic_keyword": "climate change",
+    "hook_potential": 8,
+    "virality_score": 8.163718535133011,
+    "generated_at": "2026-04-07T05:02:43.976174",
+    "method": "template"
+  },
+  {
+    "id": 4,
+    "title": "The mind-blowing truth about Black Holes",
+    "niche": "science",
+    "topic_keyword": "black holes",
+    "hook_potential": 9,
+    "virality_score": 7.144842737069578,
+    "generated_at": "2026-04-07T05:02:43.976181",
+    "method": "template"
+  },
+  {
+    "id": 5,
+    "title": "What happens when Dna goes wrong",
+    "niche": "science",
+    "topic_keyword": "dna",
+    "hook_potential": 10,
+    "virality_score": 7.1122414990200795,
+    "generated_at": "2026-04-07T05:02:43.976191",
+    "method": "template"
+  }
+]

@@ -1,0 +1,93 @@
+{
+  "title": "Black Holes",
+  "niche": "science",
+  "tone": "dramatic",
+  "target_duration": 30,
+  "target_words": 75,
+  "actual_words": 39,
+  "estimated_duration": 15.600000000000001,
+  "narration": "Did you know that your DNA is 99.9% identical to every other human? The reason behind this is fascinating... Research shows that your dna is 99.9% identical to every other human, And that's the shocking truth about black holes.",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "start_time": 0,
+      "end_time": 3,
+      "duration": 3,
+      "text": "Did you know that your DNA is 99",
+      "visual_cue": "dramatic zoom on subject",
+      "emotion": "neutral",
+      "keywords": [
+        "know",
+        "that",
+        "your"
+      ]
+    },
+    {
+      "scene_number": 2,
+      "start_time": 3,
+      "end_time": 7,
+      "duration": 4,
+      "text": "9% identical to every other human? The reason behind this is fascinating",
+      "visual_cue": "quick cuts between related images",
+      "emotion": "excited",
+      "keywords": [
+        "identical",
+        "every",
+        "other",
+        "human",
+        "reason"
+      ]
+    },
+    {
+      "scene_number": 3,
+      "start_time": 7,
+      "end_time": 9,
+      "duration": 2,
+      "text": "Research shows that your dna is 99",
+      "visual_cue": "slow pan across scene",
+      "emotion": "educational",
+      "keywords": [
+        "research",
+        "shows",
+        "that",
+        "your"
+      ]
+    },
+    {
+      "scene_number": 4,
+      "start_time": 9,
+      "end_time": 11,
+      "duration": 2,
+      "text": "9% identical to every other human",
+      "visual_cue": "animated text overlay",
+      "emotion": "neutral",
+      "keywords": [
+        "identical",
+        "every",
+        "other",
+        "human"
+      ]
+    },
+    {
+      "scene_number": 5,
+      "start_time": 11,
+      "end_time": 30,
+      "duration": 19,
+      "text": "And that's the shocking truth about black holes",
+      "visual_cue": "split screen comparison",
+      "emotion": "dramatic",
+      "keywords": [
+        "that's",
+        "shocking",
+        "truth",
+        "about",
+        "black"
+      ]
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-04-07T05:02:25.273988",
+    "method": "template",
+    "version": "1.0"
+  }
+}

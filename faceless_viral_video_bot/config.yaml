@@ -1,0 +1,94 @@
+# Configuration for Faceless Viral Video Bot
+# Edit this file to customize your video generation pipeline
+
+general:
+  project_name: "my_viral_short"
+  duration: 45  # Target duration in seconds (20-60 recommended)
+  resolution: "1080x1920"  # Vertical 9:16 for Shorts/TikTok
+  fps: 30
+  output_format: "mp4"
+  verbose: true
+
+niche:
+  default: "science"
+  available:
+    - facts
+    - history
+    - science
+    - mysteries
+    - finance
+    - what_if
+  tone: "curious"  # Options: curious, dramatic, educational, mysterious
+
+tts:
+  engine: "edge-tts"  # Options: edge-tts, piper, coqui
+  voice: "en-US-JennyNeural"  # Default voice
+  speed: 1.0  # Speech speed multiplier
+  pitch: 0  # Pitch adjustment
+  volume: 100  # Volume percentage
+  alternative_voices:
+    male: "en-US-GuyNeural"
+    female: "en-US-AriaNeural"
+    deep: "en-US-TonyNeural"
+
+visuals:
+  style: "mixed"  # Options: ai_generated, stock, mixed
+  motion_effects: true
+  ken_burns: true
+  transition_duration: 0.5  # Seconds
+  zoom_intensity: 0.1  # 0-1 scale
+  color_grading: "vibrant"  # Options: vibrant, cinematic, neutral
+  fallback_to_color: true  # Use colored backgrounds if no images
+  
+llm:
+  provider: "mock"  # Options: mock, ollama, huggingface, openai
+  model: "llama2"  # Model name (provider-dependent)
+  max_tokens: 500
+  temperature: 0.7
+  timeout: 30  # Seconds
+  
+subtitles:
+  enabled: true
+  style: "modern"  # Options: modern, classic, minimal
+  font: "Arial"
+  font_size: 48
+  font_color: "#FFFFFF"
+  stroke_color: "#000000"
+  stroke_width: 2
+  position: "bottom"  # Options: top, bottom, center
+  highlight_keywords: true
+  animation: "pop"  # Options: pop, slide, fade
+  background_enabled: false
+  background_color: "#00000080"  # Semi-transparent black
+
+audio:
+  background_music_volume: 0.15  # 0-1 scale
+  sfx_volume: 0.8
+  music_fade_in: 1.0  # Seconds
+  music_fade_out: 2.0  # Seconds
+  normalize_audio: true
+  target_loudness: -16  # LUFS for YouTube
+
+performance:
+  use_gpu: false  # Set to true if GPU available
+  cache_assets: true
+  parallel_processing: false
+  max_workers: 4
+
+paths:
+  projects_root: "projects"
+  assets_root: "assets"
+  templates_root: "templates"
+  output_format: "{project_name}/output/{filename}"
+
+metadata:
+  platform: "youtube"  # Options: youtube, tiktok, instagram
+  include_hashtags: true
+  max_title_length: 60
+  description_length: 500
+  tags_count: 15
+
+debug:
+  save_intermediate_files: true
+  log_level: "INFO"  # Options: DEBUG, INFO, WARNING, ERROR
+  preview_mode: false  # Generate low-res preview first

@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "What happens when Consciousness goes wrong",
+    "niche": "science",
+    "topic_keyword": "consciousness",
+    "hook_potential": 10,
+    "virality_score": 7.624769858454572,
+    "generated_at": "2026-04-07T05:02:25.273266",
+    "method": "template"
+  },
+  {
+    "id": 2,
+    "title": "Scientists just discovered something shocking about Consciousness",
+    "niche": "science",
+    "topic_keyword": "consciousness",
+    "hook_potential": 10,
+    "virality_score": 7.847293451560753,
+    "generated_at": "2026-04-07T05:02:25.273297",
+    "method": "template"
+  },
+  {
+    "id": 3,
+    "title": "The terrifying science behind Consciousness",
+    "niche": "science",
+    "topic_keyword": "consciousness",
+    "hook_potential": 9,
+    "virality_score": 9.28316528415358,
+    "generated_at": "2026-04-07T05:02:25.273306",
+    "method": "template"
+  },
+  {
+    "id": 4,
+    "title": "The mind-blowing truth about Climate Change",
+    "niche": "science",
+    "topic_keyword": "climate change",
+    "hook_potential": 9,
+    "virality_score": 6.553580940891129,
+    "generated_at": "2026-04-07T05:02:25.273313",
+    "method": "template"
+  },
+  {
+    "id": 5,
+    "title": "What happens when Viruses goes wrong",
+    "niche": "science",
+    "topic_keyword": "viruses",
+    "hook_potential": 9,
+    "virality_score": 8.743763699193003,
+    "generated_at": "2026-04-07T05:02:25.273321",
+    "method": "template"
+  }
+]
