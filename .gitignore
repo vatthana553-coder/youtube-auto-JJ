@@ -1,28 +1,11 @@
 ```
-# Python
+# Dependencies
+venv/
+.venv/
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
-.Python
-*.so
-.coverage
-coverage/
-htmlcov/
-
-# Virtual Environment
-venv/
-.venv/
-env/
-ENV/
-.ENV
-
-# Dependencies
-pip-log.txt
-pip-delete-this-directory.txt
-.tox/
-.project
-.pydevproject
 
 # Logs
 *.log
@@ -30,34 +13,43 @@ pip-delete-this-directory.txt
 # Environment variables
 .env
 .env.local
-.env.*
+*.env.*
 
-# IDE
+# Editor/IDE
 .vscode/
 .idea/
 *.swp
 *.swo
+*.tmp
 
-# OS
+# OS generated files
 .DS_Store
 Thumbs.db
 
-# Build and distribution artifacts
-dist/
+# Python specific
+*.py[cod]
+*$py.class
+*.so
+.Python
 build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
 *.egg-info/
-.coverage*
-nosetests.xml
-coverage.xml
-*.cover
-*.db
-*.sqlite
-*.sqlite3
+.installed.cfg
+*.egg
 
-# Temporary files
-*.tmp
-*~
-.#*
-%*
-\$RECYCLE.BIN/
+# Coverage reports
+.coverage
+htmlcov/
+.coverage.*
+.coverage
 ```
