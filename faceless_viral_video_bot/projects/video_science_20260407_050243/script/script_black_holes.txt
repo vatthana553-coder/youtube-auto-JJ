@@ -1,0 +1,46 @@
+Title: Black Holes
+Niche: science
+Tone: dramatic
+Duration: ~13 seconds
+Words: 33
+
+==================================================
+
+FULL NARRATION:
+
+This one fact about Black Holes changes everything. Here's what most people don't understand... Research shows that your dna is 99.9% identical to every other human, This changes everything we thought we knew.
+
+==================================================
+
+SCENE BREAKDOWN:
+
+Scene 1 (0-3s):
+  Text: This one fact about Black Holes changes everything
+  Visual: dramatic zoom on subject
+  Emotion: educational
+  Keywords: this, fact, about, black, holes
+
+Scene 2 (3-5s):
+  Text: Here's what most people don't understand
+  Visual: quick cuts between related images
+  Emotion: neutral
+  Keywords: here's, what, most, people, don't
+
+Scene 3 (5-7s):
+  Text: Research shows that your dna is 99
+  Visual: slow pan across scene
+  Emotion: educational
+  Keywords: research, shows, that, your
+
+Scene 4 (7-9s):
+  Text: 9% identical to every other human
+  Visual: animated text overlay
+  Emotion: neutral
+  Keywords: identical, every, other, human
+
+Scene 5 (9-30s):
+  Text: This changes everything we thought we knew
+  Visual: split screen comparison
+  Emotion: neutral
+  Keywords: this, changes, everything, thought, knew
+

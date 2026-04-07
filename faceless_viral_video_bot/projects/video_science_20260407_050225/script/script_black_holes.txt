@@ -1,0 +1,46 @@
+Title: Black Holes
+Niche: science
+Tone: dramatic
+Duration: ~16 seconds
+Words: 39
+
+==================================================
+
+FULL NARRATION:
+
+Did you know that your DNA is 99.9% identical to every other human? The reason behind this is fascinating... Research shows that your dna is 99.9% identical to every other human, And that's the shocking truth about black holes.
+
+==================================================
+
+SCENE BREAKDOWN:
+
+Scene 1 (0-3s):
+  Text: Did you know that your DNA is 99
+  Visual: dramatic zoom on subject
+  Emotion: neutral
+  Keywords: know, that, your
+
+Scene 2 (3-7s):
+  Text: 9% identical to every other human? The reason behind this is fascinating
+  Visual: quick cuts between related images
+  Emotion: excited
+  Keywords: identical, every, other, human, reason
+
+Scene 3 (7-9s):
+  Text: Research shows that your dna is 99
+  Visual: slow pan across scene
+  Emotion: educational
+  Keywords: research, shows, that, your
+
+Scene 4 (9-11s):
+  Text: 9% identical to every other human
+  Visual: animated text overlay
+  Emotion: neutral
+  Keywords: identical, every, other, human
+
+Scene 5 (11-30s):
+  Text: And that's the shocking truth about black holes
+  Visual: split screen comparison
+  Emotion: dramatic
+  Keywords: that's, shocking, truth, about, black
+

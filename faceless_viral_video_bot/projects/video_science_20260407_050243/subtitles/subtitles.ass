@@ -1,0 +1,18 @@
+[Script Info]
+Title: Faceless Viral Video Subtitles
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+Timer: 100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,48,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,2,2,20,20,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.00,Default,,20,20,50,,,{\b1}This one fact about Black Holes changes everything{\b0}
+Dialogue: 0,0:00:03.00,0:00:05.00,Default,,20,20,50,,,{\b1}Here's what most people don't understand{\b0}
+Dialogue: 0,0:00:05.00,0:00:07.00,Default,,20,20,50,,,{\b1}Research shows that your dna is 99{\b0}
+Dialogue: 0,0:00:07.00,0:00:09.00,Default,,20,20,50,,,{\b1}9% identical to every other human{\b0}
+Dialogue: 0,0:00:09.00,0:00:30.00,Default,,20,20,50,,,{\b1}This changes everything we thought we knew{\b0}

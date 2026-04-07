@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "Scientists just discovered something shocking about Black Holes",
+    "niche": "science",
+    "topic_keyword": "black holes",
+    "hook_potential": 7,
+    "virality_score": 8.020390247462409,
+    "generated_at": "2026-04-07T05:02:08.615698",
+    "method": "template"
+  },
+  {
+    "id": 2,
+    "title": "What happens when Dna goes wrong",
+    "niche": "science",
+    "topic_keyword": "dna",
+    "hook_potential": 10,
+    "virality_score": 8.701163967537395,
+    "generated_at": "2026-04-07T05:02:08.615729",
+    "method": "template"
+  },
+  {
+    "id": 3,
+    "title": "What happens when Viruses goes wrong",
+    "niche": "science",
+    "topic_keyword": "viruses",
+    "hook_potential": 10,
+    "virality_score": 9.491820565289249,
+    "generated_at": "2026-04-07T05:02:08.615738",
+    "method": "template"
+  },
+  {
+    "id": 4,
+    "title": "Why Viruses breaks the laws of physics",
+    "niche": "science",
+    "topic_keyword": "viruses",
+    "hook_potential": 7,
+    "virality_score": 7.143010255523549,
+    "generated_at": "2026-04-07T05:02:08.615745",
+    "method": "template"
+  },
+  {
+    "id": 5,
+    "title": "The terrifying science behind Artificial Intelligence",
+    "niche": "science",
+    "topic_keyword": "artificial intelligence",
+    "hook_potential": 8,
+    "virality_score": 8.516029392637769,
+    "generated_at": "2026-04-07T05:02:08.615756",
+    "method": "template"
+  }
+]
